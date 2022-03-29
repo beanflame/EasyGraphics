@@ -1,6 +1,33 @@
-# EGE (Easy Graphics Engine)
 
-![](egelogo.jpg)
+<div align="center">
+<h1><img src="Easy2D.svg" width = "180" height = "180"/></h1>
+
+**EGE (Easy Graphics Engine) 图形库**
+
+</a>
+
+[English](README_en-US.md) • [简体中文](README_zh-CN.md)
+
+<a href="#Install">Install</a> •
+<a href="#Support">Support</a> •
+<a href="#License">License</a>
+
+</div>
+
+Easy2D 是一门免费开源的轻量级跨平台游戏开发框架，由 RiCoCoSoul + Beanflame 主导开发。
+
+在所有主流电脑平台（OSX、Windows 和 Linux）都能支持运行。
+
+# Install
+
+# Support
+
+# License
+* [MIT License](./LICENSE)
+
+```
+这里输入代码
+```
 
 - Website <https://xege.org>  (官网, 附带[教程](https://xege.org/beginner-lesson-1.html)以及[范例](https://xege.org/category/demo)等)
 - HomePage <https://github.com/wysaid/xege>  (代为维护)
@@ -9,11 +36,6 @@
 - E-Mail new: this@xege.org
 - QQ Group 1: 293650629 (正常维护)
 - QQ Group 2: 1060223135 (新群，建议加入此群)
-- ~~HomePage1 <http://misakamm.github.com/xege>(原作者仓库, 已停止更新)~~
-- ~~HomePage2 <http://misakamm.bitbucket.org/index.htm>(同上)~~
-- ~~google+ <https://plus.google.com/communities/103680008540979677071>(无法访问)~~
-- ~~Blog: <https://misakamm.com>(无法访问)~~
-- ~~E-Mail: misakamm@gmail.com(无法访问)~~
  
 > 详细帮助文档，在压缩包里的man目录下，用浏览器打开index.htm就可以看到了  
 > 原作者: [misakamm](https://github.com/misakamm/xege), 目前下落不明  
