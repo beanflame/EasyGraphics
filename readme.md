@@ -65,8 +65,7 @@ EGE 是一门免费开源的跨平台图形库，由 Beanflame 主导开发。
 
 ```
 #include "graphics.h" // 就是需要引用这个图形库  
-int main()  
-{  
+int main() {
     initgraph(640, 480); // 初始化，显示一个窗口，这里和 TC 略有区别  
     circle(200, 200, 100); // 画圆，圆心(200, 200)，半径 100  
     getch(); // 暂停一下等待用户按键  
