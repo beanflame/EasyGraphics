@@ -2,9 +2,9 @@ name: 测试构建项目
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   TESTING:
